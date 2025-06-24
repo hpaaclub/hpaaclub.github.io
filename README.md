@@ -1,2 +1,2 @@
 # hpaaclub.github.io
-hpaaclub website
+https://www.hpaa.club/ 
